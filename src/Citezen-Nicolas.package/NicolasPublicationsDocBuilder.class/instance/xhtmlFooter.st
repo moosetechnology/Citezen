@@ -1,6 +1,5 @@
 building
 xhtmlFooter
-1halt.
 	^ '				</div>
 		</div>
 		
