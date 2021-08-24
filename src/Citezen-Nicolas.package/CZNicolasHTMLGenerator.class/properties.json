@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CZHTMLGenerator",
+	"category" : "Citezen-Nicolas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CZNicolasHTMLGenerator",
+	"type" : "normal"
+}

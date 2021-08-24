@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "NicolasAnquetil 2/19/2019 10:42",
+	"super" : "CZHackSingleAuthorDocBuilder",
+	"category" : "Citezen-Nicolas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NicolasPublicationsDocBuilder",
+	"type" : "normal"
+}

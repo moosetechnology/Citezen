@@ -1,0 +1,1 @@
+Some checks on my publications like doi they have all the proper tags for correct generation of bibliographie ?

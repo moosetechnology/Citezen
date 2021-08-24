@@ -1,0 +1,3 @@
+building
+xhtmlTitle
+	^  'Publication list'
