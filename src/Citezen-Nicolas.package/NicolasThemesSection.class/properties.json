@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Citezen-Nicolas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"summary",
+		"header",
+		"queryWords"
+	],
+	"name" : "NicolasThemesSection",
+	"type" : "normal"
+}

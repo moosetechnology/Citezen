@@ -1,7 +1,4 @@
 building
 buildDocumentSections
-	self
-		addArchitectureSection ; 
-		addMetricSection ;
-		addKnowledgeSection ;
-		addOtherSection .
+	themeSections
+	do: [ :sect | self addThemeSection: sect ]
