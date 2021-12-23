@@ -6,6 +6,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"nameOfResultingFile",
 		"doc",
 		"authorMatchingString",
 		"originalBibSet",
@@ -15,7 +16,9 @@
 		"shouldFilterNonPublic",
 		"keysOfBlackListedEntries",
 		"fieldOrder",
-		"workingDirectory"
+		"workingDirectory",
+		"currentSectionLevel",
+		"years"
 	],
 	"name" : "CZDocBuilder",
 	"type" : "normal"

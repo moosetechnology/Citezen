@@ -1,12 +1,14 @@
 {
 	"commentStamp" : "StephaneDucasse 8/7/2016 10:17",
 	"super" : "CZFileFormatGenerator",
-	"category" : "Citezen-Reborn-FormattingVisitors",
+	"category" : "Citezen-Reborn-Pillar",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"writer"
+		"writer",
+		"fieldEmbellishingTableStart",
+		"fieldEmbellishingTableEnd"
 	],
 	"name" : "CZPillarGenerator",
 	"type" : "normal"
