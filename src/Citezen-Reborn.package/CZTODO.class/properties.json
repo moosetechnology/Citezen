@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "StephaneDucasse 10/9/2021 11:28",
+	"super" : "Object",
+	"category" : "Citezen-Reborn-Manifest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CZTODO",
+	"type" : "normal"
+}
